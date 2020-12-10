@@ -1,0 +1,12 @@
+# Ignore all following
+.DS_Store
+node_modules
+uploads
+upgrade
+ai1wm-backups
+plugins/*
+themes/*
+
+# Git track
+!themes/agh
+
